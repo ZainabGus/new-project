@@ -1,2 +1,3 @@
 print('Hello World!')
-print('I love him')
+<<<<<<< HEAD
+print('I love everybody')
